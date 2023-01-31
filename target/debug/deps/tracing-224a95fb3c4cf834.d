@@ -1,0 +1,13 @@
+c:\Users\Jordan\Programming\RUST\ionwallet\target\debug\deps\tracing-224a95fb3c4cf834.rmeta: C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\lib.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\macros.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\dispatcher.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\field.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\instrument.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\level_filters.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\span.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\stdlib.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\subscriber.rs
+
+c:\Users\Jordan\Programming\RUST\ionwallet\target\debug\deps\tracing-224a95fb3c4cf834.d: C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\lib.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\macros.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\dispatcher.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\field.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\instrument.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\level_filters.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\span.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\stdlib.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\subscriber.rs
+
+C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\lib.rs:
+C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\macros.rs:
+C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\dispatcher.rs:
+C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\field.rs:
+C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\instrument.rs:
+C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\level_filters.rs:
+C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\span.rs:
+C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\stdlib.rs:
+C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.37\src\subscriber.rs:

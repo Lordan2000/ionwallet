@@ -1,0 +1,11 @@
+c:\Users\Jordan\Programming\RUST\ionwallet\target\debug\deps\byte_tools-66833637046c81a3.rmeta: C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\byte-tools-0.2.0\src\lib.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\byte-tools-0.2.0\src\read_single.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\byte-tools-0.2.0\src\write_single.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\byte-tools-0.2.0\src\read_slice.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\byte-tools-0.2.0\src\write_slice.rs
+
+c:\Users\Jordan\Programming\RUST\ionwallet\target\debug\deps\libbyte_tools-66833637046c81a3.rlib: C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\byte-tools-0.2.0\src\lib.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\byte-tools-0.2.0\src\read_single.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\byte-tools-0.2.0\src\write_single.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\byte-tools-0.2.0\src\read_slice.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\byte-tools-0.2.0\src\write_slice.rs
+
+c:\Users\Jordan\Programming\RUST\ionwallet\target\debug\deps\byte_tools-66833637046c81a3.d: C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\byte-tools-0.2.0\src\lib.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\byte-tools-0.2.0\src\read_single.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\byte-tools-0.2.0\src\write_single.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\byte-tools-0.2.0\src\read_slice.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\byte-tools-0.2.0\src\write_slice.rs
+
+C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\byte-tools-0.2.0\src\lib.rs:
+C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\byte-tools-0.2.0\src\read_single.rs:
+C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\byte-tools-0.2.0\src\write_single.rs:
+C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\byte-tools-0.2.0\src\read_slice.rs:
+C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\byte-tools-0.2.0\src\write_slice.rs:

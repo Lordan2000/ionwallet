@@ -1,0 +1,12 @@
+c:\Users\Jordan\Programming\RUST\ionwallet\target\debug\deps\gcc-805c60d1f0929ff7.rmeta: C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\gcc-0.3.55\src\lib.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\gcc-0.3.55\src\registry.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\gcc-0.3.55\src\winapi.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\gcc-0.3.55\src\com.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\gcc-0.3.55\src\setup_config.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\gcc-0.3.55\src\windows_registry.rs
+
+c:\Users\Jordan\Programming\RUST\ionwallet\target\debug\deps\libgcc-805c60d1f0929ff7.rlib: C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\gcc-0.3.55\src\lib.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\gcc-0.3.55\src\registry.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\gcc-0.3.55\src\winapi.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\gcc-0.3.55\src\com.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\gcc-0.3.55\src\setup_config.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\gcc-0.3.55\src\windows_registry.rs
+
+c:\Users\Jordan\Programming\RUST\ionwallet\target\debug\deps\gcc-805c60d1f0929ff7.d: C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\gcc-0.3.55\src\lib.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\gcc-0.3.55\src\registry.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\gcc-0.3.55\src\winapi.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\gcc-0.3.55\src\com.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\gcc-0.3.55\src\setup_config.rs C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\gcc-0.3.55\src\windows_registry.rs
+
+C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\gcc-0.3.55\src\lib.rs:
+C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\gcc-0.3.55\src\registry.rs:
+C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\gcc-0.3.55\src\winapi.rs:
+C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\gcc-0.3.55\src\com.rs:
+C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\gcc-0.3.55\src\setup_config.rs:
+C:\Users\Jordan\.cargo\registry\src\github.com-1ecc6299db9ec823\gcc-0.3.55\src\windows_registry.rs:
